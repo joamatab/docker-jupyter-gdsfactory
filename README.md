@@ -1,7 +1,7 @@
 # Docker image for jupyterhub
 
 
-Contains some extra packages:
+Contains some extra python packages:
 
 - [meep](https://github.com/conda-forge/pymeep-feedstock)
 - [gdsfactory](https://gdsfactory.readthedocs.io/en/latest/)
