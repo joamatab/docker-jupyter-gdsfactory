@@ -12,3 +12,7 @@ References:
 - [documentation](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html)
 - [github](https://github.com/jupyter/docker-stacks)
 
+
+```
+docker pull joamatab/docker-jupyter-gdsfactory
+```
